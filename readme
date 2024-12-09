@@ -10,12 +10,13 @@ Right-click on Windows PowerShell and select Run as Administrator.
 Navigate to the Script Folder: In PowerShell, use the cd command to go to the folder where the script is saved. For example:
 
 powershell
-Copy code
+
 cd C:\path\to\file
+
 Run the Script: Execute the script by typing:
 
 powershell
-Copy code
+
 .\Update.ps1
 
 Disclaimer
