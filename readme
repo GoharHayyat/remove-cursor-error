@@ -1,0 +1,22 @@
+Cursor “Too many free trial accounts used on this machine.”
+
+How to Run the Script
+Download or Copy the Script: Save the script as Update.ps1.
+
+Open PowerShell:
+
+Press Windows Key and search for PowerShell.
+Right-click on Windows PowerShell and select Run as Administrator.
+Navigate to the Script Folder: In PowerShell, use the cd command to go to the folder where the script is saved. For example:
+
+powershell
+Copy code
+cd C:\path\to\file
+Run the Script: Execute the script by typing:
+
+powershell
+Copy code
+.\Update.ps1
+
+Disclaimer
+This script is intended for educational and research purposes only. Using this script may violate Cursor's terms of service. Please use responsibly and at your own risk.
